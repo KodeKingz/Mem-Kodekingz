@@ -1,7 +1,7 @@
 # MEMORY GAME PROJECT
 
 # What is a Memory Game
-* This is a simple yet fun mini game designed to exercise a users memory, utilizing different colors to trick the users mind
+* This is a simple yet fun mini game designed to exercise a users memory, utilizing different colors when cards flip to trick the users mind
 
 
 # The Challenge
