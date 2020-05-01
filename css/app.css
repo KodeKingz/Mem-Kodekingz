@@ -120,11 +120,13 @@ h1 {
 	padding: 0;
 	display: inline-block;
 	margin: 0 5px 0 0;
+	
 }
 
 .score-panel .hearts li {
 	list-style: none;
 	display: inline-block;
+	
 }
 
 .score-panel .restart {
@@ -139,6 +141,8 @@ h1 {
 .timer {
 	display: inline-block;
 	margin: 0 1rem;
+	color: #e2043b;
+	font-weight: bolder;
 }
 
 
@@ -208,7 +212,7 @@ h1 {
 
 #heartRating li {
 	display: inline-block;
-	color: rgb(216, 33, 33);
+	color: #e2043b;
 }
 
 #play-again {

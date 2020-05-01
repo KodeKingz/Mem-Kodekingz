@@ -13,7 +13,7 @@
 
 # Rules
 * The timer will start after the first attempted match (two cards flipped)
-* Each card flip counts as 1 move, if 6 cards have been flipped and theirs no matches, the player loses 1 heart
+* Each pair flip counts as 1 move, if 6 cards or (3 pairs) have been flipped and theirs no matches, the player loses 1 heart
 * Try to win the game with as many hearts left as possibel, dont worry you will get better everytime!
 
 # How It was created
