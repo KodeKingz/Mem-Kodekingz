@@ -160,14 +160,14 @@ function moveCounter(){
         startTimer();
     }
     // setting rates based on moves
-    if (moves > 1 && moves < 4){
+    if (moves > 2 == moves < 6){
         for( i= 0; i < 3; i++){
             if(i > 1){
                 hearts[i].style.visibility = "collapse";
             }
         }
     }
-    else if (moves > 4){
+    else if (moves > 6){
         for( i= 0; i < 3; i++){
             if(i > 0){
                 hearts[i].style.visibility = "collapse";
