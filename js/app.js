@@ -220,6 +220,14 @@ function congratulations(){
 }
 
 
+// loop to add event listeners to each card
+for (var i = 0; i < cards.length; i++){
+    card = cards[i];
+    card.addEventListener("click", displayCard);
+    card.addEventListener("click", cardOpen);
+    card.addEventListener("click",congratulations);
+};
+
 // close icon on window
 function closeModal(){
     closeicon.addEventListener("click", function(e){
@@ -236,10 +244,4 @@ function playAgain(){
 }
 
 
-// loop to add event listeners to each card
-for (var i = 0; i < cards.length; i++){
-    card = cards[i];
-    card.addEventListener("click", displayCard);
-    card.addEventListener("click", cardOpen);
-    card.addEventListener("click",congratulations);
-};
+
