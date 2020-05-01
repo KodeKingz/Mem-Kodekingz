@@ -5,14 +5,13 @@
 
 # The Challenge
 * Match cards in less time with less moves, essentially a self challenge game
-* Match cards properly with less moves and in faster time
 
 # How To Play: Instructions
 * Click on any card you desire
 * Keep revealing cards to remember each unveiled cards previously opened and try to match them
 
 # Rules
-* The timer will start after the first attempted match (two cards flipped)
+* The timer will start after the first pair of cards are flipped
 * Each pair flip counts as 1 move, if 6 cards or (3 pairs) have been flipped and theirs no matches, the player loses 1 heart
 * Try to win the game with as many hearts left as possibel, dont worry you will get better everytime!
 
